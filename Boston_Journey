@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#369f09",
+        "marker-size": "medium",
+        "marker-symbol": "school",
+        "description": "High school for lawyers",
+        "feature": "a good school",
+        "title": "Civic school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09939575195312,
+          42.30676863078423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0080",
+        "marker-size": "medium",
+        "marker-symbol": "cemetery",
+        "description": "Munucipality cemetery",
+        "feature": "Very good",
+        "title": "Boston cimitery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.10694885253906,
+          42.36716898804751
+        ]
+      }
+    }
+  ]
+}
