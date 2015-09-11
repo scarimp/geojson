@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f3fa03",
+        "marker-size": "small",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.34469,
+          41.818218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f3fa03",
+        "marker-size": "small",
+        "marker-symbol": "polling-place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.455421,
+          41.858235
+        ]
+      }
+    }
+  ]
+}
