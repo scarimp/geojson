@@ -1,0 +1,1923 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA82501G",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0461,
+          41.4846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA82601B",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4038,
+          41.6673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA82901V",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3708,
+          41.8065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA83201P",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0505,
+          41.4812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA83301E",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2504,
+          41.5214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA83401A",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2348,
+          41.5985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA81202E",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2934,
+          41.7143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA82602C",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.447,
+          41.6003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA82902X",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3656,
+          41.8044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA83202Q",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0505,
+          41.4813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA83302G",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1671,
+          41.5626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA83402B",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2246,
+          41.5864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA815033",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1408,
+          41.6071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA822036",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2423,
+          41.599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA829031",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.373,
+          41.8073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA83203R",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0777,
+          41.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA83303L",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1519,
+          41.5313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA81204L",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2654,
+          41.8338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA822047",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2356,
+          41.6106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA82504P",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0582,
+          41.5462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA82604E",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4237,
+          41.5496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA829042",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4224,
+          41.8241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA83304N",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2211,
+          41.5437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA81205N",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3367,
+          41.6781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA82505Q",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0653,
+          41.509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA829053",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3739,
+          41.8087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA83305P",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1171,
+          41.5517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA81206P",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1758,
+          41.697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA815066",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1048,
+          41.6543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA829064",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4147,
+          41.7807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA83306Q",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1255,
+          41.5266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA81207Q",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2449,
+          41.6552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA815077",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0871,
+          41.6252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA82607N",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4577,
+          41.7041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA815088",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1495,
+          41.6714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA82608P",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3141,
+          41.551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA81209T",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2822,
+          41.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA815099",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0642,
+          41.656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA82609Q",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3392,
+          41.5485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA81210X",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2784,
+          41.5742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA81510B",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1402,
+          41.7122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA82610T",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3921,
+          41.522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA812111",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3244,
+          41.592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISAA82611V",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3519,
+          41.4957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE81201P",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2949,
+          41.7128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE815016",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1033,
+          41.6004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE82601L",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4473,
+          41.6005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE829014",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3656,
+          41.8045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE83201X",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0505,
+          41.4811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE83301Q",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1164,
+          41.5515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE83401G",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2318,
+          41.5951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE81202Q",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3855,
+          41.748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE82602N",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4487,
+          41.6011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE829025",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.373,
+          41.8074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE832021",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0506,
+          41.4812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE83302R",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1792,
+          41.5224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE83402L",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2246,
+          41.5865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE81203R",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2654,
+          41.8339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE82203B",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.271,
+          41.6036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE82503V",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0538,
+          41.4906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE82603P",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4034,
+          41.6672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE829036",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4224,
+          41.8242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE832032",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0777,
+          41.4201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE83303T",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1524,
+          41.5312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE815049",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1409,
+          41.6061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE82204C",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2356,
+          41.6107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE82604Q",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4078,
+          41.5595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE829047",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4147,
+          41.7808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE83304V",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1669,
+          41.5627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE81205V",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1832,
+          41.7893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE83305X",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2213,
+          41.5438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE81206X",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2599,
+          41.773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE825062",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0582,
+          41.5463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE81507C",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0863,
+          41.6242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE825073",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0653,
+          41.5091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE82607V",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4577,
+          41.7042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE812082",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3381,
+          41.6796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE81508D",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1485,
+          41.6725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE82608X",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3398,
+          41.549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE812093",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.181,
+          41.6951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE81509E",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0642,
+          41.6561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE826091",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3921,
+          41.5221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE812105",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2449,
+          41.6553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE81510L",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0676,
+          41.7151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE826103",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3506,
+          41.4929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE81511N",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1048,
+          41.6544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE812127",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2784,
+          41.5743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE81512P",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1784,
+          41.6953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE812138",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2822,
+          41.6101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISEE812149",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3244,
+          41.5921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISIC81200L",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2945,
+          41.7132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISIC815004",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1033,
+          41.6005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISIC822007",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2338,
+          41.5965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISIC82500P",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0486,
+          41.4847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISIC82600E",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4496,
+          41.6003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISIC829002",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3735,
+          41.8073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISIC83200T",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0504,
+          41.4812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISIS003002",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.053,
+          41.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISIS01200R",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2455,
+          41.5982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISIS01300L",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2424,
+          41.5974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISMM81201N",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2949,
+          41.7129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISMM815015",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1033,
+          41.6003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISMM822018",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2338,
+          41.5966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISMM82501Q",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0486,
+          41.4848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISMM82601G",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4034,
+          41.6671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISMM829013",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3707,
+          41.8066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISMM83201V",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0776,
+          41.4202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISMM83301P",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1161,
+          41.5513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISMM83401E",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2336,
+          41.5951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISMM81202P",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3849,
+          41.7478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISMM815026",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1407,
+          41.6062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISMM82602L",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4499,
+          41.6006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISMM83302Q",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1544,
+          41.5321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISMM82503T",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0617,
+          41.5112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISMM82603N",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.408,
+          41.5596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISMM81204R",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2654,
+          41.8337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISMM815048",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1048,
+          41.6542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISMM81205T",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3385,
+          41.6786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISMM815059",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1402,
+          41.7123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISMM82605Q",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4574,
+          41.7036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISMM81206V",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2471,
+          41.6434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISMM82606R",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3398,
+          41.5491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISMM81207X",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3244,
+          41.5919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISMM82607T",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3519,
+          41.4958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISPC003019",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0389,
+          41.4828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISPC012014",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2325,
+          41.5956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISPM01401X",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2336,
+          41.5983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISPS04000A",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3696,
+          41.8068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISPS012017",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2455,
+          41.5983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISRH010008",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3646,
+          41.8051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISSD014019",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2355,
+          41.5998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISTD003018",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0521,
+          41.4895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISTD01301V",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2424,
+          41.5975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISTD013518",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2424,
+          41.5973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISTF11000D",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3773,
+          41.8092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISTF013015",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2433,
+          41.6015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PLESSO/SCUOLA": "ISTF013026",
+        "provincia": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4496,
+          41.6004
+        ]
+      }
+    }
+  ]
+}
